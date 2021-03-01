@@ -1,0 +1,13 @@
+Ivan Stus - 821201908
+Kenny Kieu - 819180993
+CS 570-05
+Spring 2021
+Assignment #1 - ls command
+
+Files Included: 
+myls.c
+makefile
+
+Execution:
+make
+myls " "
